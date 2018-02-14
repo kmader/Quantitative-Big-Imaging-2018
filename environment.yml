@@ -1,0 +1,28 @@
+name: qbi2018
+channels:
+  - damianavila82
+  - satra
+  - menpo
+  - glemaitre
+  - soumith
+  - intel
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.5.2=0
+  - numpy=1.11.1=py35_0
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
+  - pydot
+  - h5py
+  - scikit-image=0.12.3=np111py35_1
+  - scikit-learn=0.17.1=np111py35_2
+  - pytorch=0.2.0=py35_1cu75
+  - torchvision=0.1.9=py35_1  
+  - opencv3=3.1.0=py35_0
+  - pip:
+    - keras==2.1.3
+    - keras-contrib==1.2.1
+    - lime==0.1.1.24
