@@ -1,0 +1,14 @@
+.section .reveal .state-background {
+  background-image:url('../background.jpg');
+  background-repeat:no-repeat;
+} 
+
+.headerslide .reveal .state-background {
+  background-image:url('../background.jpg');
+} 
+
+.headerslide .reveal h1,
+.headerslide .reveal h2,
+.headerslide .reveal p {
+  color: white;
+}
