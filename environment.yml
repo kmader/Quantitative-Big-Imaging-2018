@@ -9,8 +9,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.5.2=0
-  - numpy=1.11.1=py35_0
+  - python
+  - numpy
   - matplotlib
   - pandas
   - bokeh
