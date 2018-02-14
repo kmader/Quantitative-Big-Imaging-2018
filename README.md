@@ -12,7 +12,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 # Lectures
 ### 23th February - Introduction and Workflows
- - [Lecture Slides](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb)
+ - [Interactive Lecture Slides](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb), powered by Binder
  - [Lecture Handout](Lectures/01-Introduction.ipynb)
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
 
