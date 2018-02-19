@@ -9,12 +9,15 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python
+  - python=3.6.4
   - numpy
   - matplotlib
   - pandas
   - bokeh
   - rise
+  - notebook>=5.2.2
+  - ipywidgets>=6.0.1
+  - ipython>=6.2.1
   - pydot
   - h5py
   - scikit-image<=0.20
