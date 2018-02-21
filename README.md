@@ -1,4 +1,5 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018)
+[![Binder with JupyterLab](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=lab)
+
 
 ## Quantitative Big Imaging Course 2018
 
