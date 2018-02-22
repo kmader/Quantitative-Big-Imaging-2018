@@ -8,6 +8,7 @@ channels:
   - soumith
   - conda-forge
   - defaults
+  - simpleitk
 dependencies:
   - python=3.6
   - numpy
@@ -25,8 +26,9 @@ dependencies:
   - pytorch<=0.3.0
   - torchvision
   - opencv3>=3.0
-  - graphviz=2.38.0=4
   - tensorflow
+  - itk
+  - SimpleITK
   - pip:
     - keras==2.1.3
     - git+https://github.com/keras-team/keras-contrib
@@ -36,3 +38,4 @@ dependencies:
     - tpot==0.9.0
     - pydot
     - dask_ndfilters
+    - graphviz

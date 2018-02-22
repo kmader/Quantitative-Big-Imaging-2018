@@ -5,20 +5,21 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2016 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=113382&semkez=2017S&lang=en): Quantitative Big Imaging.
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnkHTWKpuaYDj3le1XNJD3LH).
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
 
 # Slack
 
 For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following [link](https://qbi2018.slack.com/shared_invite/MTQ1NDY1OTc1NDYzLTE0ODc3NTE3NDktMDBkOWQwZGUzZg). It isn't mandatory, but it seems to be an effective way to engage collaboratively [How scientists use slack](http://www.nature.com/news/how-scientists-use-slack-1.21228)
 
 # Lectures
-### 23th February - Introduction and Workflows
+### 22th February - Introduction and Workflows
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
- - [Interactive Lecture Slides (binder / beta)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb), powered by Binder
+ - [Interactive Lecture Slides (Binder / beta)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb)
  - [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
+ - [Lecture Video](https://www.youtube.com/watch?v=-rMot6mbdN8&t=0s&index=1&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ - [2017 Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
 
-### 2rd March - Image Enhancement (A. Kaestner)
+### 1rd March - Image Enhancement (A. Kaestner)
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/02-Slides-ImageEnhancement.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/0Wrvjg8vbPg), [Part 2](https://youtu.be/Q6C1rO9x4PA)
 
