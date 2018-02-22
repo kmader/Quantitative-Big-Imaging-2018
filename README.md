@@ -89,8 +89,8 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 
 ## Specific Assignments
 
-### 23rd February - Introduction and Workflows (Christian Dietz, Intro to KNIME for Image Processing)
- - [Getting Started with KNIME](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/01-Description.md)
+### 22rd February - Introduction and Workflows
+ - [Getting Started with KNIME](Exercises/01-Description.md)
 
 ### 2nd March - Image Enhancement (A. Kaestner)
   - For all exercises it is important to take the starting data
