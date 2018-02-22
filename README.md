@@ -93,7 +93,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 ### 22rd February - Introduction and Workflows
  - [Getting Started with KNIME](Exercises/01-Description.md)
 
-### 2nd March - Image Enhancement (A. Kaestner)
+### 1nd March - Image Enhancement (A. Kaestner)
   - For all exercises it is important to take the starting data
   - [Starting Data](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/matlab.zip?raw=true)
 
