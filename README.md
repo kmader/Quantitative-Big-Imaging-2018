@@ -84,17 +84,20 @@ The exercises are based on the lectures and take place in the same room after th
 The exercises from last year (available on: kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
 
 ## Assistance
-The exercises will be supported by Yannis Vogiatzis, Kevin Mader, and Christian Dietz. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
+The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
+
 
 ## Online Tools
-The exercises will be available on Kaggle as 'Datasets' and we will be trying [binder](http://mybinder.org:/repo/kmader/quantitative-big-imaging-2017) as well which is well suited for Open Source reproducible science.
+The exercises will be available on Kaggle as 'Datasets' and we will be using binder as stated above. For those interested there will be an option to use [Github Classroom](https://classroom.github.com/classrooms/36815273-quantitative-big-imaging) to turn in assignments (make sure your @student.ethz.ch address is linked to your github account)
+
+
 
 ## Specific Assignments
 
 ### 22rd February - Introduction and Workflows
  - [Getting Started with KNIME](Exercises/01-Description.md)
 
-### 1nd March - Image Enhancement (A. Kaestner)
+### 1st March - Image Enhancement (A. Kaestner)
   - For all exercises it is important to take the starting data
   - [Starting Data](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/matlab.zip?raw=true)
 
@@ -102,15 +105,19 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  - The KNIME or workflow based exercises are here
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-Description.md)
 
-#### Python
+#### Kaggle (Python)
  - You can get started on Kaggle (no installation required just register)
  - Online [Dataset](https://www.kaggle.com/kmader/qbi-image-enhancement)
  - Online Kernel for [Exercises 1-3](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/exercises-1-3/) and [Exercise 4](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/exercise-4/)
  - Additionally there is an competition on [Image Enhancement](https://inclass.kaggle.com/c/mnt-denoising)
- - For students experienced in Python there is an Jupyter notebook [Exercise1-3](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb), [Exercise](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercise4.ipynb)  or [download](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb?raw=true) and how to get [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
 
-#### Matlab (just for this exercise)
-  - An older version of the exercises in Matlab are available [here](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/Exercises_ImageEnhancement.pdf?raw=true)
+#### Binder (Python)
+
+ - For students experienced in Python there are the binder Notebooks
+http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb
+
+  [Exercise1-3](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercises1-3.ipynb), [Exercise 4](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercise4.ipynb)  or [view 1-3](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercises1-3.ipynb), [view 4](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercises4.ipynb) and how to get [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
+
 
 ### 9th March - Tutorial: Python, Notebooks and Scikit
 
