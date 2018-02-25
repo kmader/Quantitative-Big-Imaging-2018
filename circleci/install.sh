@@ -5,6 +5,8 @@ if [[ `type -t deactivate` ]]; then
   deactivate
 fi
 
+apt-get update -y && apt-get install -y --no-install-recommends graphviz dot
+
 # Use the miniconda installer for faster download / install of conda
 # itself
 # XXX: Most of this is very similar to travis/install.sh. We should
