@@ -6,7 +6,7 @@ if [[ `type -t deactivate` ]]; then
 fi
 
 sudo apt-get update -y
-sudo apt-get install -y --no-install-recommends graphviz dot
+sudo apt-get install -y --no-install-recommends graphviz
 
 # Use the miniconda installer for faster download / install of conda
 # itself
