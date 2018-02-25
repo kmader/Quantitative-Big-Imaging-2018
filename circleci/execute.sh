@@ -1,6 +1,6 @@
 export PATH="$HOME/miniconda3/bin:$PATH"
-source activate testenv
-export SKOPT_HOME=$(pwd)
+source activate qbi2018
+export QBI_HOME=$(pwd)
 
 python --version
 python -c "import numpy; print('numpy %s' % numpy.__version__)"
