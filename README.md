@@ -1,4 +1,4 @@
-[![Binder with JupyterLab](badge.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=lab)
+[![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=lab)
 
 
 ## Quantitative Big Imaging Course 2018
@@ -14,12 +14,12 @@ For communicating, discussions, asking questions, and everything, we will be try
 # Lectures
 ### 22th February - Introduction and Workflows
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
- - [Interactive Lecture Slides (Binder / beta)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb)
+ - [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb)
  - [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=-rMot6mbdN8&t=0s&index=1&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
  - [2017 Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
 
-### 1rd March - Image Enhancement (A. Kaestner)
+### 1st March - Image Enhancement (A. Kaestner)
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/02-Slides-ImageEnhancement.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/0Wrvjg8vbPg), [Part 2](https://youtu.be/Q6C1rO9x4PA)
 
@@ -102,14 +102,15 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using bin
   - [Starting Data](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/matlab.zip?raw=true)
 
 #### KNIME
+
  - The KNIME or workflow based exercises are here
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-Description.md)
 
- #### Binder (Python)
+#### Binder (Python)
 
   - For students experienced in Python there are the binder Notebooks
-  - Exercises 1-3 [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercises1-3.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercises1-3.ipynb)
-  - Exercises 4 [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercise4.ipynb) or [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercise4.ipynb)
+  - Exercises 1-3 (Exercises/02-files/Exercises1-3) [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercises1-3.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercises1-3.ipynb)
+  - Exercises 4 (Exercises/02-files/Exercise4) [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercise4.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercise4.ipynb)
    - Setup [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
 
 #### Kaggle (Python)

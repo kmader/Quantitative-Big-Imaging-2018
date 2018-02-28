@@ -19,6 +19,6 @@ cd ~
 mkdir -p ${HOME}/doc
 mkdir -p ${HOME}/doc/Lectures
 mkdir -p ${HOME}/doc/Exercises
-cp ${QBI_HOME}/Lectures/*md ${HOME}/doc/Lectures
-cp ${QBI_HOME}/Exercises/*md ${HOME}/doc/Exercises
+cp -r ${QBI_HOME}/Lectures/* ${HOME}/doc/Lectures
+cp -r ${QBI_HOME}/Exercises/* ${HOME}/doc/Exercises
 cp -r ./doc ${CIRCLE_ARTIFACTS}
