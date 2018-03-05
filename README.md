@@ -46,7 +46,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
  - Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w)
 
-### 12th April  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
+### 12th April  - Guest Lecture - High Content Screening (M. Prummer)
 
  - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
 
@@ -75,25 +75,28 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 31st May - Project Presentations
 
-### Additional Lecture Material
+### Additional Lectures from Previous Years
 
 #### Tutorial: Python, Notebooks and Scikit
 
  - Lecture [slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-QBI-PythonTutorial.slides.html)
  - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
 
-#### Roads from Aerial Images Slides 
+#### Roads from Aerial Images 
+Javier Montoya / Computer Vision / ScopeM
 
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf) - Javier Montoya / Computer Vision / ScopeM
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf) - 
  - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-Description.html)
  - [KNIME Workflow](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-files/AerialImages.zip)
  - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/11-notebook.ipynb)
  - [Python Data](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/12-files/lab_images.npz)
  - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/12-notebook.ipynb)
  
-#### Introduction to Deep Learning
+#### Introduction to Deep Learning / Machine Learning
 
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf) - A. Lucchi
+Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) in D-INFK at ETHZ
+
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf) - 
 
 
 # Exercises
@@ -124,8 +127,8 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using bin
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-Description.md)
 
 #### Binder (Python)
+For students experienced in Python there are the binder Notebooks
 
-  - For students experienced in Python there are the binder Notebooks
   - Demonstration [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-Demonstration.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-Demonstration.ipynb)
   - Exercises 1-3 (Exercises/02-files/Exercises1-3) [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercises1-3.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercises1-3.ipynb)
   - Exercises 4 (Exercises/02-files/Exercise4) [view](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/02-files/Exercise4.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/02-files/Exercise4.ipynb)
