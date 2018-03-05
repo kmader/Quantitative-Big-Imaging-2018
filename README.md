@@ -27,8 +27,11 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 8th March - Basic Segmentation, Discrete Binary Structures
 
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html)
- - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
+ - [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation.ipynb)
+ - [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
+
+ - [OldLecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 15th March - Advanced Segmentation
@@ -236,12 +239,17 @@ The final examination (as originally stated in the course material) will be a 30
 
 
 # Other Material
-- Course Wiki (For Questions and Answers, discussions etc)
+- Course Wiki (For Questions and Answers, discussions etc, we use the old one)
  - [Main Page](https://github.com/kmader/Quantitative-Big-Imaging-2016/wiki/)
+- [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2017/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
+- [FastAI Deep Learning Course](http://course.fast.ai/) and [Part 2](http://course.fast.ai/part2.html) for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.
+- Reproducible Research
+ - [Coursera Course](https://www.coursera.org/course/repdata)
+ - [Course and Tools in R](http://kbroman.github.io/Tools4RR/)
 - Performance Computing Courses
  - [High Performance Computing for Science and Engineering (HPCSE) I](http://cse-lab.ethz.ch/index.php/teaching/42-teaching/classes/577-hpcsei)
  - [Introduction to GPU Programming](http://cse-lab.ethz.ch/index.php/teaching/42-teaching/classes/576-etvgpufall2013)
  - [Programming Massively Parallel Processors with CUDA](https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322?mt=10)
 - Reprodudible Research Courses
- - [Course and Tools in R](http://kbroman.github.io/Tools4RR/)
- - [Coursera Course](https://www.coursera.org/course/repdata)
+
+
