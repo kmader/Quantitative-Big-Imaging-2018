@@ -40,3 +40,4 @@ dependencies:
     - pydot
     - dask_ndfilters
     - graphviz
+    - kaggle

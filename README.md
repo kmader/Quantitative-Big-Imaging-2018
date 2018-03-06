@@ -14,9 +14,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 # Lectures
 
 ### 22th February - Introduction and Workflows
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
- - [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb)
- - [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/01-Introduction.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/01-Introduction.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=-rMot6mbdN8&t=0s&index=1&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
  - [2017 Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/01-Slides.html)
 
@@ -27,11 +25,10 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 8th March - Basic Segmentation, Discrete Binary Structures
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
- - [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation.ipynb)
- - [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
-
- - [OldLecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
+ - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb)
+ 
+ - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 15th March - Advanced Segmentation
