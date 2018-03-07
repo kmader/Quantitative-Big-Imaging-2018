@@ -22,14 +22,14 @@ For communicating, discussions, asking questions, and everything, we will be try
 
  - [Lecture Slides](Lectures/02-ImageEnhancement.pdf)
  - [Lecture Video](https://www.youtube.com/watch?v=NlHRzgdw0p0&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=3)
+ - [![imagetool](https://img.shields.io/badge/launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=%2Fapps%2FExercises%2FImageEnhancementPlayground.ipynb)
 
 ### 8th March - Basic Segmentation, Discrete Binary Structures
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation.ipynb)
  - Part 2: [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/03-BasicSegmentation_Part2.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/03-BasicSegmentation_Part2.ipynb)
- 
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
- - Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
+ - Old Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 15th March - Advanced Segmentation
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)

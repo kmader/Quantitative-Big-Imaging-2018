@@ -3,3 +3,4 @@ mkdir $HOME/.jupyter
 echo "c.NotebookApp.iopub_data_rate_limit=1e22" >> $HOME/.jupyter/jupyter_notebook_config.py
 mkdir $HOME/.kaggle
 echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' >> $HOME/.kaggle/kaggle.json
+chmod 600 $HOME/.kaggle/kaggle.json
