@@ -41,3 +41,4 @@ dependencies:
     - dask_ndfilters
     - graphviz
     - kaggle
+    - appmode
