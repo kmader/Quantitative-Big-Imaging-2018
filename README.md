@@ -32,6 +32,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Old Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 15th March - Advanced Segmentation
+
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
  - Lecture Video: [Part 1](https://www.youtube.com/watch?v=2o8swi_vei8), [Part 2](https://www.youtube.com/watch?v=wN1kNxIVw9I)
@@ -102,7 +103,7 @@ Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) 
 # Exercises
 ## General Information
 The exercises are based on the lectures and take place in the same room after the lecture completes. The exercises are designed to offer a tiered level of understanding based on the background of the student. We will (for most lectures) take advantage of an open-source tool called KNIME (www.knime.org), with example workflows here (https://www.knime.org/example-workflows).  The basic exercises will require adding blocks in a workflow and adjusting parameters, while more advanced students will be able to write their own snippets, blocks or plugins to accomplish more complex tasks easily.
-The exercises from last year (available on: kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
+The exercises from two years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
 
 ## Assistance
 The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
@@ -141,9 +142,12 @@ For students experienced in Python there are the binder Notebooks
  - Additionally there is an competition on [Image Enhancement](https://inclass.kaggle.com/c/mnt-denoising)
 
 ### 8th March - Basic Segmentation, Discrete Binary Structures
- - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-Description.md)
- - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
 
+ - [KNIME Exercises](Exercises/03-Description.md)
+ - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
+ - [Python Fossil Segmentation Exercises](Exercises/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Fossil.ipynb)
+ - [Python Nerve Segmentation Exercises](Exercises/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Exercises.ipynb)
+ 
 #### Kaggle
 
 - [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
