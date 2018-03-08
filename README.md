@@ -146,14 +146,17 @@ For students experienced in Python there are the binder Notebooks
  - [KNIME Exercises](Exercises/03-Description.md)
  - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
  - [Python Fossil Segmentation Exercises](Exercises/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Fossil.ipynb)
- - [Python Nerve Segmentation Exercises](Exercises/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Exercises.ipynb)
+ - [Python Nerve Segmentation Exercises](Exercises/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
  
 #### Kaggle
 
-- [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
-- [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
-- [Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
-- [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
+ - [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
+ - [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
+ - [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
+
+#### Hard Exercises
+
+ - [Cell Segmentation on Kaggle](https://www.kaggle.com/gaborvecsei/basic-pure-computer-vision-segmentation-lb-0-229) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/CV_CellSegmentation.ipynb)
 
 ### 15th March - Advanced Segmentation
 
