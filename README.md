@@ -37,7 +37,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-AdvancedSegmentation.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/04-AdvancedSegmentation.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/04-AdvancedSegmentation.ipynb)
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
- - Lecture Video: [Part 1](https://www.youtube.com/watch?v=2o8swi_vei8), [Part 2](https://www.youtube.com/watch?v=wN1kNxIVw9I)
+ - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=2o8swi_vei8), [Part 2](https://www.youtube.com/watch?v=wN1kNxIVw9I)
 
 ### 22th March - Analyzing Single Objects
 
@@ -120,6 +120,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be using bin
 ## Specific Assignments
 
 ### 22rd February - Introduction and Workflows
+
  - [Getting Started with KNIME](Exercises/01-Description.md)
 
 ### 1st March - Image Enhancement (A. Kaestner)
@@ -151,7 +152,7 @@ For students experienced in Python there are the binder Notebooks
  - [KNIME Exercises](Exercises/03-Description.md)
  - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
  - [Python Fossil Segmentation Exercises](Exercises/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Fossil.ipynb)
- - [Python Nerve Segmentation Exercises](Exercises/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
+ - [Python Nerve Segmentation Exercises](Kaggle_Competitions/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/03-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
  
 #### Kaggle
 
@@ -165,8 +166,9 @@ For students experienced in Python there are the binder Notebooks
 
 ### 15th March - Advanced Segmentation
 
- - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/04-Description.md)
- - [Old IPython Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/04-Exercises.ipynb), and [Old IPython Solutions/Advanced](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Exercises-Solutions.ipynb) but these are still incomplete
+ - [KNIME Exercises](Exercises/04-Description.md)
+ - [Python Exercises](Exercises/04-Exercises.ipynb)
+ - [Python Deep Learning](Exercises/04-CNN.ipynb)
 
 #### Kaggle
 
