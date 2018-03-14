@@ -5,5 +5,5 @@ jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 mkdir $HOME/.kaggle
-echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' >> $HOME/.kaggle/kaggle.json
+echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' > $HOME/.kaggle/kaggle.json
 chmod 600 $HOME/.kaggle/kaggle.json
