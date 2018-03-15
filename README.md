@@ -151,7 +151,7 @@ For students experienced in Python there are the binder Notebooks
 
  - [KNIME Exercises](Exercises/03-Description.md)
  - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
- - [Python Fossil Segmentation Exercises](Exercises/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/03-Fossil.ipynb)
+ - [Python Fossil Segmentation Exercises](Kaggle_Competitions/03-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/03-Fossil.ipynb)
  - [Python Nerve Segmentation Exercises](Kaggle_Competitions/03-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/03-Exercises.ipynb) or [Kaggle](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
  
 #### Kaggle
