@@ -261,6 +261,6 @@ The final examination (as originally stated in the course material) will be a 30
 - Performance Computing Courses
  - [High Performance Computing for Science and Engineering (HPCSE) I](http://www.cse-lab.ethz.ch/teaching/hpcse-i_hs17/)
  - [Programming Massively Parallel Processors with CUDA](https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322?mt=10)
-- Reprodudible Research Courses
+- [Introduction to Machine Learning (EPFL)](https://github.com/wildtreetech/advanced-computing-2018)
 
 
