@@ -39,18 +39,19 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
 
-### 22th March - Supervised Segmentation / Analyzing Single Objects
+### 22th March - Supervised Problems and Segmentation 
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/05-SupervisedApproaches.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/05-Slides.html)
+ - [Lecture Video](https://www.youtube.com/watch?v=nGgFXlal_OA&index=9&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
+ 
+### 29th March - Analyzing Single Objects / Analyzing Complex Objects
+
+- [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/05-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides_files/05-handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/06-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/-uMJNOcUGVY), [Part 2](https://youtu.be/VoiYCE3XQgw)
-
-### 29th March - Analyzing Complex Objects
-
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/06-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
- - Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w)
+ - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w)
 
 ### 12th April  - Guest Lecture - High Content Screening (M. Prummer)
 
@@ -165,7 +166,7 @@ For students experienced in Python there are the binder Notebooks
 
  - [Cell Segmentation on Kaggle](https://www.kaggle.com/gaborvecsei/basic-pure-computer-vision-segmentation-lb-0-229) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Kaggle_Competitions/CV_CellSegmentation.ipynb)
 
-### 15th March - Advanced Segmentation
+### 15th March/22nd March - Advanced Segmentation / Supervised Segmentation
 
  - [KNIME Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/04-Description.md)
  - [Python Exercises](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/04-Exercises.ipynb)
@@ -180,14 +181,14 @@ For students experienced in Python there are the binder Notebooks
  - [Multispectral / Hyperspectral Data](https://www.kaggle.com/kmader/d/xiaozhouwang/multispectralimages/data-overview)
 
 
-### 22nd March - Analyzing Single Objects
+### 29th March - Analyzing Segments
 
+#### Basic
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
  - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [Jupyter Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-files/EMSegNotebook.ipynb)
  - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
- - [Old Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
-
-### 29th March - Analyzing Complex Objects
+ 
+#### Advanced
 
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-Description.md)
  - [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
@@ -195,8 +196,13 @@ For students experienced in Python there are the binder Notebooks
  - [Paraview Curvature](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-files/CurvatureContour.pvsm)
  - [Old IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-notebook.ipynb)
 
+### 12th April - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
 
-### 12th April - Guest Lecture
+- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
+- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
+- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
+- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
 
 ### 19th April - Many Objects and Distributions
 
@@ -226,13 +232,6 @@ For students experienced in Python there are the binder Notebooks
 
 ### 31st May - Project Presentations
 
-### 18th May  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
-
-- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
-- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
-- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
-- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
 
 # Feedback (as much as possible)
  - Create an [issue](https://github.com/kmader/Quantitative-Big-Imaging-2016/issues) (on the group site that everyone can see and respond to, requires a Github account), [issues from last year](https://github.com/kmader/Quantitative-Big-Imaging-2015/issues)
