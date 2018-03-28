@@ -46,3 +46,4 @@ dependencies:
     - appmode
     - cloudpickle
     - autopep8
+    - webcolors

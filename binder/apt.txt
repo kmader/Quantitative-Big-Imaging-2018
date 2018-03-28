@@ -1,3 +1,2 @@
 unzip
 font-manager
-msttcorefonts
