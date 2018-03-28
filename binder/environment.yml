@@ -30,6 +30,7 @@ dependencies:
   - itk
   - SimpleITK
   - ipyvolume
+  - jupyter_contrib_nbextensions
   - pip:
     - keras==2.1.3
     - git+https://github.com/keras-team/keras-contrib
@@ -43,3 +44,4 @@ dependencies:
     - kaggle
     - appmode
     - cloudpickle
+    - autopep8
