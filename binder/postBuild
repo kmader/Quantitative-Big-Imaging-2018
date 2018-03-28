@@ -8,7 +8,8 @@ jupyter serverextension enable --py --sys-prefix appmode
 # install the fancy extensions
 jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/highlighter.zip
 jupyter nbextension enable highlighter/highlighter
-jupyter nbextension install https://github.com/Calysto/notebook-extensions/archive/master.zip --user
+git clone https://github.com/Calysto/notebook-extensions.git
+cd notebook-extensions; jupyter nbextension install calysto --user; cd ..
 jupyter nbextension enable calysto/document-tools/main
 jupyter nbextension enable calysto/cell-tools/main
 jupyter nbextension enable calysto/spell-check/main
@@ -28,3 +29,6 @@ chmod 600 $HOME/.kaggle/kaggle.json
 # run matplotlib once to generate the font cache
 python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
 rm test.png
+
+jupyter trust Lectures/*.ipynb -y
+jupyter trust Exercises/*.ipynb -y
