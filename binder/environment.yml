@@ -30,6 +30,7 @@ dependencies:
   - itk
   - SimpleITK
   - ipyvolume
+  - ffmpeg
   - jupyter_contrib_nbextensions
   - pip:
     - keras==2.1.3
