@@ -44,22 +44,22 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/05-SupervisedApproaches.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb)
  - [Lecture Video](https://www.youtube.com/watch?v=nGgFXlal_OA&index=9&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
  
-### 29th March - Analyzing Single Objects / Analyzing Complex Objects
+### 29th March - Analyzing Single Objects
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-ShapeAnalysis.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/06-ShapeAnalysis.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/06-SupervisedApproaches.ipynb)
  
 - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/05-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides_files/05-handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/06-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/-uMJNOcUGVY), [Part 2](https://youtu.be/VoiYCE3XQgw)
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/06-Slides.html)
- - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
- - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w)
 
 ### 12th April  - Guest Lecture - High Content Screening (M. Prummer)
 
  - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
 
-### 19th April - Many Objects and Distributions
+### 19th April - Analyzing Complex Objects and Distributions
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/06-Slides.html)
+ - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
+ - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w)
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/08-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/hkHdpQTlGio), [Part 2](https://youtu.be/UvOPxdKZ3NI)
@@ -183,11 +183,11 @@ For students experienced in Python there are the binder Notebooks
  - [Multispectral / Hyperspectral Data](https://www.kaggle.com/kmader/d/xiaozhouwang/multispectralimages/data-overview)
 
 
-### 29th March - Analyzing Segments
+### 29th March - Analyzing Shapes
 
 #### Basic
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
- - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [Jupyter Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-files/EMSegNotebook.ipynb)
+ - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [![slides](https://img.shields.io/badge/interactive-notebook-blue.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/06-Exercises.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/06-Exercises.ipynb)
  - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
  
 #### Advanced
