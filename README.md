@@ -254,6 +254,7 @@ The final examination (as originally stated in the course material) will be a 30
 # Other Material
 - Course Wiki (For Questions and Answers, discussions etc, we use the old one)
  - [Main Page](https://github.com/kmader/Quantitative-Big-Imaging-2016/wiki/)
+- [Data Science/Python Introduction Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [ETH Deep Learning Course](http://www.da.inf.ethz.ch/teaching/2017/DeepLearning/) taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.
 - [FastAI Deep Learning Course](http://course.fast.ai/) and [Part 2](http://course.fast.ai/part2.html) for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.
 - Reproducible Research
