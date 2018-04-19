@@ -60,8 +60,9 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 19th April - Analyzing Complex Objects and Distributions
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/08-ComplexObjects.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/08-ComplexObjects.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/08-ComplexObjects.ipynb)
+ - [Lecture Video](https://www.youtube.com/watch?v=apDElYtI7jo&t=0s&index=15&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M)
  - Old Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w), [Part 3](https://youtu.be/hkHdpQTlGio), [Part 4](https://youtu.be/UvOPxdKZ3NI)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html) 
+ - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html)
 
 ### 26th April - Dynamic Experiments
 
