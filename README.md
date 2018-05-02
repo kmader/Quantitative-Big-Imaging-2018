@@ -66,14 +66,15 @@ For communicating, discussions, asking questions, and everything, we will be try
 
 ### 26th April - Dynamic Experiments
 
- - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/09-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb)
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/09-DynamicExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/09-DynamicExperiments.ipynb
+ - [Lecture Video (silent, technical problems)](https://www.youtube.com/watch?v=K43wDnhk7Ec&index=17&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&t=41s), for voice-over use [Old Lecture Video](https://youtu.be/77kmZjiKQYQ)
 
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/09-Slides.html), [Old Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.html), Old Lecture Video: [Part 1](https://youtu.be/77kmZjiKQYQ)
+ - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/09-Slides.html), [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.html),
 
 ### 3rd May - Statistics, Prediction, and Reproducibility
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
- - [Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides_files/08-handout.html) as [old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/09-Handout.pdf)
- - Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Part 3](https://youtu.be/yqWToMDc7u4)
+ - [Old Lecture Slides](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
+ - [Old Lecture Handout](https://rawgit.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2017/master/Lectures/08-handout.html)
+ - Old Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Part 3](https://youtu.be/yqWToMDc7u4)
 
 ### 17th May  - Guest Lecture - High Content Screening (M. Prummer)
 
@@ -210,8 +211,9 @@ For students experienced in Python there are the binder Notebooks
 - [Kaggle R Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-groups-of-objects-and-distributions/notebook)
 
 ### 26th April - Dynamic Experiments
- - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
+ - [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
  - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
+ - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
 
 ### 3rd May - Statistics, Prediction, and Reproducibility
 
