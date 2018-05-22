@@ -47,3 +47,4 @@ dependencies:
     - cloudpickle
     - autopep8
     - webcolors
+    - itkwidgets
