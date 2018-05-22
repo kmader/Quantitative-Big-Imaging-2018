@@ -21,6 +21,9 @@ jupyter nbextension disable calysto/submit/main
 jupyter nbextension enable printview/main
 # to save notebooks to run locally with figures
 jupyter nbextension enable export_embedded/main
+# add itkwidgets
+jupyter nbextension install --py --sys-prefix itkwidgets
+jupyter nbextension enable --py --sys-prefix itkwidgets
 
 mkdir $HOME/.kaggle
 echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' > $HOME/.kaggle/kaggle.json
