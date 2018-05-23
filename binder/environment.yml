@@ -40,7 +40,9 @@ dependencies:
     - seaborn==0.7.1
     - tpot==0.9.0
     - pydot
-    - dask_ndfilters
+    - dask_ndfilters==0.1.2
+    - dask_ndmeasure==0.1.1
+    - dask_ndmorph==0.1.1
     - graphviz
     - kaggle
     - appmode
