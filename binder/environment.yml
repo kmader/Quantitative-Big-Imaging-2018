@@ -32,6 +32,8 @@ dependencies:
   - ipyvolume
   - ffmpeg
   - jupyter_contrib_nbextensions
+  - graphviz
+  - python-graphviz
   - pip:
     - keras==2.1.3
     - git+https://github.com/keras-team/keras-contrib
@@ -43,7 +45,7 @@ dependencies:
     - dask_ndfilters==0.1.2
     - dask_ndmeasure==0.1.1
     - dask_ndmorph==0.1.1
-    - graphviz
+    - psutil
     - kaggle
     - appmode
     - cloudpickle
