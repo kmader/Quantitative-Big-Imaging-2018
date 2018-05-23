@@ -45,6 +45,7 @@ dependencies:
     - dask_ndfilters==0.1.2
     - dask_ndmeasure==0.1.1
     - dask_ndmorph==0.1.1
+    - distributed
     - psutil
     - kaggle
     - appmode
