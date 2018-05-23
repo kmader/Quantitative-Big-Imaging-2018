@@ -84,9 +84,11 @@ For communicating, discussions, asking questions, and everything, we will be try
   - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
 
 ### 24th May - Scaling Up / Big Data
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html)
- - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
- - Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
+
+ - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
+ 
+ - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
+ - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
 
 ### 31st May - Project Presentations
 
