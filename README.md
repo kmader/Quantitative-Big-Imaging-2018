@@ -3,7 +3,7 @@
 
 ## Quantitative Big Imaging Course 2018
 
-Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2018 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=113382&semkez=2017S&lang=en): Quantitative Big Imaging.
+Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2018 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=120956&semkez=2018S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
 
 The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
 
