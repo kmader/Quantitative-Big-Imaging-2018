@@ -86,7 +86,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 24th May - Scaling Up / Big Data
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/11-ScalingUp.ipynb)
- 
+ - [Lecture Video](https://www.youtube.com/watch?v=sJbOSaPqsx8&t=0s&list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M&index=22)
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html) [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
  - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
 
@@ -102,7 +102,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 #### Roads from Aerial Images
 Javier Montoya / Computer Vision / ScopeM
 
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf) -
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf)
  - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-Description.html)
  - [KNIME Workflow](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-files/AerialImages.zip)
  - [IPython Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/11-notebook.ipynb)
@@ -113,7 +113,7 @@ Javier Montoya / Computer Vision / ScopeM
 
 Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) in D-INFK at ETHZ
 
- - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf) -
+ - [Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf)
 
 
 # Exercises
@@ -126,7 +126,7 @@ The exercises will be supported by Amogha Pandeshwar and Kevin Mader. There will
 
 
 ## Online Tools
-The exercises will be available on Kaggle as 'Datasets' and we will be using binder as stated above. For those interested there will be an option to use [Github Classroom](https://classroom.github.com/classrooms/36815273-quantitative-big-imaging) to turn in assignments (make sure your @student.ethz.ch address is linked to your github account)
+The exercises will be available on Kaggle as 'Datasets' and we will be using mybinder as stated above. For those interested there will be an option to use [Github Classroom](https://classroom.github.com/classrooms/36815273-quantitative-big-imaging) to turn in assignments (make sure your @student.ethz.ch address is linked to your github account)
 
 
 ## Specific Assignments
@@ -235,9 +235,11 @@ For students experienced in Python there are the binder Notebooks
 - [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
 
 ### 24th May - Scaling Up / Big Data
+
  - [KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Exercises/10-Description.md)
  - [Tensorflow DAG Notebook Filtering](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/Ex10-UsingTensorflow.ipynb)
  - [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow)
+ - [Block-based 3D Image Analysis in Dask](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
 
 ### 31st May - Project Presentations
 
