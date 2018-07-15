@@ -1,0 +1,23 @@
+{
+  "@context": "https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld",
+  "@type": "Code",
+  "author": [
+    {
+      "@id": "0000-0003-4919-9359",
+      "@type": "Person",
+      "email": "mader@biomed.ee.ethz.ch",
+      "name": "Kevin Mader",
+      "affiliation": "ETH Zurich"
+    }
+  ],
+  "identifier": "",
+  "codeRepository": "https://github.com/kmader/Quantitative-Big-Imaging-2018",
+  "datePublished": "2018-07-15",
+  "dateModified": "2018-07-15",
+  "dateCreated": "2018-07-15",
+  "description": "The module focuses on the challenging task of extracting robust, quantitative metrics from imaging data and is intended to bridge the gap between pure signal processing and the experimental science of imaging. The course will focus on techniques, scalability, and science-driven analysis.",
+  "keywords": "image processing, microscopy, 3d imaging, scikit-image, scikit-learn, big data",
+  "license": "Apache 2.0",
+  "title": "Quantitative Big Imaging: From Images to Statistics",
+  "version": ""
+}

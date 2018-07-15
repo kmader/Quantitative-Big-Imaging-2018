@@ -1,0 +1,234 @@
+@article{Zitnik2018,
+abstract = {New technologies have enabled the investigation of biology and human health at an unprecedented scale and in multiple dimensions. These dimensions include myriad properties describing genome, epigenome, transcriptome, microbiome, phenotype, and lifestyle. No single data type, however, can capture the complexity of all the factors relevant to understanding a phenomenon such as a disease. Integrative methods that combine data from multiple technologies have thus emerged as critical statistical and computational approaches. The key challenge in developing such approaches is the identification of effective models to provide a comprehensive and relevant systems view. An ideal method can answer a biological or medical question, identifying important features and predicting outcomes, by harnessing heterogeneous data across several dimensions of biological variation. In this Review, we describe the principles of data integration and discuss current methods and available implementations. We provide examples of successful data integration in biology and medicine. Finally, we discuss current challenges in biomedical integrative methods and our perspective on the future development of the field.},
+archivePrefix = {arXiv},
+arxivId = {1807.00123},
+author = {Zitnik, Marinka and Nguyen, Francis and Wang, Bo and Leskovec, Jure and Goldenberg, Anna and Hoffman, Michael M.},
+eprint = {1807.00123},
+file = {::},
+month = {jun},
+title = {{Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities}},
+url = {http://arxiv.org/abs/1807.00123},
+year = {2018}
+}
+@article{Bai2016,
+abstract = {Most contemporary approaches to instance segmentation use complex pipelines involving conditional random fields, recurrent neural networks, object proposals, or template matching schemes. In our paper, we present a simple yet powerful end-to-end convolutional neural network to tackle this task. Our approach combines intuitions from the classical watershed transform and modern deep learning to produce an energy map of the image where object instances are unambiguously represented as basins in the energy map. We then perform a cut at a single energy level to directly yield connected components corresponding to object instances. Our model more than doubles the performance of the state-of-the-art on the challenging Cityscapes Instance Level Segmentation task.},
+archivePrefix = {arXiv},
+arxivId = {1611.08303},
+author = {Bai, Min and Urtasun, Raquel},
+eprint = {1611.08303},
+file = {::},
+month = {nov},
+title = {{Deep Watershed Transform for Instance Segmentation}},
+url = {http://arxiv.org/abs/1611.08303},
+year = {2016}
+}
+@article{Chaurasia2017,
+abstract = {Pixel-wise semantic segmentation for visual scene understanding not only needs to be accurate, but also efficient in order to find any use in real-time application. Existing algorithms even though are accurate but they do not focus on utilizing the parameters of neural network efficiently. As a result they are huge in terms of parameters and number of operations; hence slow too. In this paper, we propose a novel deep neural network architecture which allows it to learn without any significant increase in number of parameters. Our network uses only 11.5 million parameters and 21.2 GFLOPs for processing an image of resolution 3x640x360. It gives state-of-the-art performance on CamVid and comparable results on Cityscapes dataset. We also compare our networks processing time on NVIDIA GPU and embedded system device with existing state-of-the-art architectures for different image resolutions.},
+archivePrefix = {arXiv},
+arxivId = {1707.03718},
+author = {Chaurasia, Abhishek and Culurciello, Eugenio},
+eprint = {1707.03718},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Chaurasia, Culurciello - 2017 - LinkNet Exploiting Encoder Representations for Efficient Semantic Segmentation.pdf:pdf},
+month = {jun},
+title = {{LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation}},
+url = {http://arxiv.org/abs/1707.03718},
+year = {2017}
+}
+@article{Ronneberger2015,
+abstract = {There is large consent that successful training of deep networks requires many thousand annotated training samples. In this paper, we present a network and training strategy that relies on the strong use of data augmentation to use the available annotated samples more efficiently. The architecture consists of a contracting path to capture context and a symmetric expanding path that enables precise localization. We show that such a network can be trained end-to-end from very few images and outperforms the prior best method (a sliding-window convolutional network) on the ISBI challenge for segmentation of neuronal structures in electron microscopic stacks. Using the same network trained on transmitted light microscopy images (phase contrast and DIC) we won the ISBI cell tracking challenge 2015 in these categories by a large margin. Moreover, the network is fast. Segmentation of a 512x512 image takes less than a second on a recent GPU. The full implementation (based on Caffe) and the trained networks are available at http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net .},
+archivePrefix = {arXiv},
+arxivId = {1505.04597},
+author = {Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+eprint = {1505.04597},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Ronneberger, Fischer, Brox - 2015 - U-Net Convolutional Networks for Biomedical Image Segmentation.pdf:pdf},
+month = {may},
+title = {{U-Net: Convolutional Networks for Biomedical Image Segmentation}},
+url = {http://arxiv.org/abs/1505.04597},
+year = {2015}
+}
+@inproceedings{Mader2016,
+abstract = {Over the last decade, the time required to measure a terabyte of microscopic imaging data has gone from years to minutes. This shift has moved many of the challenges away from experimental design and measurement to scalable storage, organization, and analysis. As many scientists and scientific institutions lack training and competencies in these areas, major bottlenecks have arisen and led to substantial delays and gaps between measurement, understanding, and dissemination. We present in this paper a framework for analyzing large 3D datasets using cloud-based computational and storage resources. We demonstrate its applicability by showing the setup and costs associated with the analysis of a genome-scale study of bone microstructure. We then evaluate the relative advantages and disadvantages associated with local versus cloud infrastructures.},
+author = {Mader, Kevin and Stampanoni, Marco},
+doi = {10.1063/1.4937539},
+pages = {020045},
+publisher = {AIP Publishing},
+title = {{Moving image analysis to the cloud: A case study with a genome-scale tomographic study}},
+url = {http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4937539},
+volume = {1696},
+year = {2016}
+}
+@article{Shin2016,
+abstract = {Despite the recent advances in automatically describing image contents, their applications have been mostly limited to image caption datasets containing natural images (e.g., Flickr 30k, MSCOCO). In this paper, we present a deep learning model to efficiently detect a disease from an image and annotate its contexts (e.g., location, severity and the affected organs). We employ a publicly available radiology dataset of chest x-rays and their reports, and use its image annotations to mine disease names to train convolutional neural networks (CNNs). In doing so, we adopt various regularization techniques to circumvent the large normal-vs-diseased cases bias. Recurrent neural networks (RNNs) are then trained to describe the contexts of a detected disease, based on the deep CNN features. Moreover, we introduce a novel approach to use the weights of the already trained pair of CNN/RNN on the domain-specific image/text dataset, to infer the joint image/text contexts for composite image labeling. Significantly improved image annotation results are demonstrated using the recurrent neural cascade model by taking the joint image/text contexts into account.},
+archivePrefix = {arXiv},
+arxivId = {1603.08486},
+author = {Shin, Hoo-Chang and Roberts, Kirk and Lu, Le and Demner-Fushman, Dina and Yao, Jianhua and Summers, Ronald M},
+eprint = {1603.08486},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Shin et al. - 2016 - Learning to Read Chest X-Rays Recurrent Neural Cascade Model for Automated Image Annotation.pdf:pdf},
+month = {mar},
+title = {{Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation}},
+url = {http://arxiv.org/abs/1603.08486},
+year = {2016}
+}
+@article{Stollenga2015,
+abstract = {Convolutional Neural Networks (CNNs) can be shifted across 2D images or 3D videos to segment them. They have a fixed input size and typically perceive only small local contexts of the pixels to be classified as foreground or background. In contrast, Multi-Dimensional Recurrent NNs (MD-RNNs) can perceive the entire spatio-temporal context of each pixel in a few sweeps through all pixels, especially when the RNN is a Long Short-Term Memory (LSTM). Despite these theoretical advantages, however, unlike CNNs, previous MD-LSTM variants were hard to parallelize on GPUs. Here we re-arrange the traditional cuboid order of computations in MD-LSTM in pyramidal fashion. The resulting PyraMiD-LSTM is easy to parallelize, especially for 3D data such as stacks of brain slice images. PyraMiD-LSTM achieved best known pixel-wise brain image segmentation results on MRBrainS13 (and competitive results on EM-ISBI12).},
+archivePrefix = {arXiv},
+arxivId = {1506.07452},
+author = {Stollenga, Marijn F. and Byeon, Wonmin and Liwicki, Marcus and Schmidhuber, Juergen},
+eprint = {1506.07452},
+month = {jun},
+title = {{Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation}},
+url = {http://arxiv.org/abs/1506.07452},
+year = {2015}
+}
+@inproceedings{Altintas2013,
+abstract = {Scientific workflows have been used as a programming model to automate scientific tasks ranging from short pipelines to complex workflows that span across heterogeneous data and computing resources. While utilization of scientific workflow technologies varies slightly across different scientific disciplines, all informatics and computational science disciplines provide a common set of attributes to facilitate and accelerate workflow-driven research. Scientific workflows provide assembly of complex processing easily in local or distributed environments via rich and expressive programming models. Scientific workflows enable transparent access to diverse resources ranging from local clusters and traditional supercomputers to elastic and heterogeneous Cloud resources. Scientific workflows support incorporation of multiple software tools including domain specific tools for standard processing to custom generalized workflows and middleware tools that can be reused in various contexts. Scientific workflows often collect provenance information on workflow entities, e.g., workflow definitions, their executions and run time parameters, and, in turn, assure a level of reproducibility while enabling referencing and replicating results. While doing all these, scientific workflows often foster an open-source, open-access and standards-driven community development model based on sharing and collaborations. Cyberinfrastructure platforms and gateways commonly employ scientific workflows to bridge the gap between the infrastructure and users needs. While capturing and communicating the scientific process formally, workflows ensure flexibility, synergy between users, provide optimized usage of resources, increase reuse and ensure compliance with system specific data models and community-driven standards. Currently, scientific workflows are used widely in life sciences at different stages of end-to-end data lifecycle from generation to analysis and publication of biological data. The - ata handled by such workflows can be produced by sequencers, sensor networks, medical imaging instruments and other heterogeneous resources at significant rates at decreasing costs making the analysis and archival of such data a 'big data' challenge. Additionally, these new biological data resources are making new and exciting research in areas including metagenomics and personalized medicine possible. However, the analysis of big biological data is still very costly requiring new scalable computational models and programming paradigms to be applied to biological analysis. Although, some new paradigms exists for analysis of big data, application of these best practices to life sciences is still in its infancy. Scientific workflows can act as a scaffold and help speed this process up via combination of existing programming models and computational models with the challenges of biological problems as reusable blocks. In this talk, I will talk about such an approach that builds upon distributed data parallel patterns, e.g., MapReduce, and underlying execution engines, e.g., Hadoop, and matches the computational requirements of bioinformatics tools with such patterns and engines. The results of the presented approach is developed as a part of the bioKepler (bioKepler.org) module and can be downloaded to work within the release 2.4 of the Kepler scientific workflow system (kepler-project.org).},
+author = {Altintas, Ilkay},
+booktitle = {2013 IEEE 3rd International Conference on Computational Advances in Bio and medical Sciences (ICCABS)},
+doi = {10.1109/ICCABS.2013.6629243},
+isbn = {978-1-4799-0716-8},
+month = {jun},
+pages = {1--1},
+publisher = {IEEE},
+shorttitle = {Computational Advances in Bio and Medical Sciences},
+title = {{Workflow-driven programming paradigms for distributed analysis of biological big data}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6629243},
+year = {2013}
+}
+@article{Ollion2013,
+abstract = {MOTIVATION: The cell nucleus is a highly organized cellular organelle that contains the genetic material. The study of nuclear architecture has become an important field of cellular biology. Extracting quantitative data from 3D fluorescence imaging helps understand the functions of different nuclear compartments. However, such approaches are limited by the requirement for processing and analyzing large sets of images.
+
+RESULTS: Here, we describe Tools for Analysis of Nuclear Genome Organization (TANGO), an image analysis tool dedicated to the study of nuclear architecture. TANGO is a coherent framework allowing biologists to perform the complete analysis process of 3D fluorescence images by combining two environments: ImageJ (http://imagej.nih.gov/ij/) for image processing and quantitative analysis and R (http://cran.r-project.org) for statistical processing of measurement results. It includes an intuitive user interface providing the means to precisely build a segmentation procedure and set-up analyses, without possessing programming skills. TANGO is a versatile tool able to process large sets of images, allowing quantitative study of nuclear organization.
+
+AVAILABILITY: TANGO is composed of two programs: (i) an ImageJ plug-in and (ii) a package (rtango) for R. They are both free and open source, available (http://biophysique.mnhn.fr/tango) for Linux, Microsoft Windows and Macintosh OSX. Distribution is under the GPL v.2 licence.
+
+CONTACT: thomas.boudier@snv.jussieu.fr
+
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.},
+author = {Ollion, Jean and Cochennec, Julien and Loll, Fran{\c{c}}ois and Escud{\'{e}}, Christophe and Boudier, Thomas},
+doi = {10.1093/bioinformatics/btt276},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Ollion et al. - 2013 - TANGO a generic tool for high-throughput 3D image analysis for studying nuclear organization.pdf:pdf},
+issn = {1367-4811},
+journal = {Bioinformatics (Oxford, England)},
+keywords = {Cell Nucleus,Cell Nucleus: genetics,Cell Nucleus: ultrastructure,Genome,Imaging, Three-Dimensional,Imaging, Three-Dimensional: methods,Microscopy, Fluorescence,Software},
+month = {jul},
+number = {14},
+pages = {1840--1},
+pmid = {23681123},
+title = {{TANGO: a generic tool for high-throughput 3D image analysis for studying nuclear organization.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3702251{\&}tool=pmcentrez{\&}rendertype=abstract},
+volume = {29},
+year = {2013}
+}
+@article{Ahrens2013,
+abstract = {Brain function relies on communication between large populations of neurons across multiple brain areas, a full understanding of which would require knowledge of the time-varying activity of all neurons in the central nervous system. Here we use light-sheet microscopy to record activity, reported through the genetically encoded calcium indicator GCaMP5G, from the entire volume of the brain of the larval zebrafish in vivo at 0.8 Hz, capturing more than 80{\%} of all neurons at single-cell resolution. Demonstrating how this technique can be used to reveal functionally defined circuits across the brain, we identify two populations of neurons with correlated activity patterns. One circuit consists of hindbrain neurons functionally coupled to spinal cord neuropil. The other consists of an anatomically symmetric population in the anterior hindbrain, with activity in the left and right halves oscillating in antiphase, on a timescale of 20 s, and coupled to equally slow oscillations in the inferior olive.},
+author = {Ahrens, Misha B and Orger, Michael B and Robson, Drew N and Li, Jennifer M and Keller, Philipp J},
+doi = {10.1038/nmeth.2434},
+issn = {1548-7105},
+journal = {Nature methods},
+keywords = {Animals,Brain,Brain: metabolism,Brain: physiology,Microscopy,Microscopy: methods,Zebrafish},
+month = {may},
+number = {5},
+pages = {413--20},
+pmid = {23524393},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+shorttitle = {Nat Meth},
+title = {{Whole-brain functional imaging at cellular resolution using light-sheet microscopy.}},
+url = {http://dx.doi.org/10.1038/nmeth.2434},
+volume = {10},
+year = {2013}
+}
+@article{Egglin1996,
+abstract = {OBJECTIVE: To determine whether radiologists' interpretations of images are biased by their context and by prevalence of disease in other recently observed cases.
+
+METHODS: A test set of 24 right pulmonary arteriograms with a 33{\%} prevalence of pulmonary emboli (PE) was assembled and embedded in 2 larger groups of films. Group A contained 16 additional arteriograms, all showing PE involving the right lung, so that total prevalence was 60{\%}. Group B contained 16 additional arteriograms without PE so that total prevalence was 20{\%}. Six radiologists were randomly assigned to see either group first and then "cross over" to review the other group after a hiatus of at least 8 weeks. The direction of changes in a 5-point rating scale for the 2 readings of each film in the test set was compared with the sign test; mean sensitivity, specificity, and areas under receiver operating characteristic (ROC) curves were compared with the paired t test.
+
+RESULTS: In the context of group A's higher disease prevalence, radiologists shifted more of their diagnoses toward higher suspicion than expected by chance (P=.03, sign test). In group A, mean sensitivity for diagnosing PE was significantly higher (75{\%} vs 60{\%}; P=.04), and area under the ROC curve was significantly larger (0.88 vs 0.82; P=.02).
+
+CONCLUSIONS: Radiologists' diagnoses are significantly influenced by the context of interpretation, even when spectrum and verification bias are avoided. This "context bias" effect is unique to the evaluation of subjectively interpreted tests, and illustrates the difficulty of obtaining unbiased estimates of diagnostic accuracy for both new and existing technologies.},
+author = {Egglin, T K and Feinstein, A R},
+issn = {0098-7484},
+journal = {JAMA : the journal of the American Medical Association},
+keywords = {Angiography,Angiography: statistics {\&} numerical data,Bias (Epidemiology),Humans,Observer Variation,Pulmonary Artery,Pulmonary Artery: radiography,Pulmonary Embolism,Pulmonary Embolism: radiography,ROC Curve,Radiography,Radiography: statistics {\&} numerical data,Sensitivity and Specificity},
+month = {dec},
+number = {21},
+pages = {1752--5},
+pmid = {8940325},
+title = {{Context bias. A problem in diagnostic radiology.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/8940325},
+volume = {276},
+year = {1996}
+}
+@article{Alden2013,
+author = {Alden, Kieran and Read, Mark},
+doi = {10.1038/502448d},
+issn = {1476-4687},
+journal = {Nature},
+month = {oct},
+number = {7472},
+pages = {448},
+pmid = {24153289},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+shorttitle = {Nature},
+title = {{Computing: Scientific software needs quality control.}},
+url = {http://dx.doi.org/10.1038/502448d},
+volume = {502},
+year = {2013}
+}
+@book{Claude2008,
+abstract = {Quantifying shape and size variation is essential in evolutionary biology and in many other disciplines. Since the "morphometric revolution of the 90s," an increasing number of publications in applied and theoretical morphometrics emerged in the new discipline of statistical shape analysis. The R language and environment offers a single platform to perform a multitude of analyses from the acquisition of data to the production of static and interactive graphs. This offers an ideal environment to analyze shape variation and shape change. This open-source language is accessible for novi.},
+author = {Claude, Julien},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Claude - 2008 - Morphometrics with R.pdf:pdf},
+isbn = {0387777903},
+title = {{Morphometrics with R}},
+url = {http://books.google.ch/books/about/Morphometrics{\_}with{\_}R.html?id=hA9ANHMPm14C{\&}pgis=1},
+year = {2008}
+}
+@book{Wickham2009,
+author = {Wickham, Hadley},
+isbn = {978-0-387-98140-6},
+publisher = {Springer New York},
+title = {ggplot2: elegant graphics for data analysis},
+url = {http://had.co.nz/ggplot2/book},
+year = {2009}
+}
+@article{Smith-Spangler2012,
+author = {Smith-Spangler, Crystal M},
+doi = {10.1177/0272989X12458977},
+issn = {1552-681X},
+journal = {Medical decision making : an international journal of the Society for Medical Decision Making},
+keywords = {Models, Theoretical},
+month = {jan},
+number = {5},
+pages = {663--6},
+pmid = {22990081},
+title = {{Transparency and reproducible research in modeling: why we need it and how to get there.}},
+url = {http://mdm.sagepub.com/content/32/5/663.full},
+volume = {32},
+year = {2012}
+}
+@article{Schindelin2012,
+abstract = {Fiji is a distribution of the popular open-source software ImageJ focused on biological-image analysis. Fiji uses modern software engineering practices to combine powerful software libraries with a broad range of scripting languages to enable rapid prototyping of image-processing algorithms. Fiji facilitates the transformation of new algorithms into ImageJ plugins that can be shared with end users through an integrated update system. We propose Fiji as a platform for productive collaboration between computer science and biology research communities.},
+author = {Schindelin, Johannes and Arganda-Carreras, Ignacio and Frise, Erwin and Kaynig, Verena and Longair, Mark and Pietzsch, Tobias and Preibisch, Stephan and Rueden, Curtis and Saalfeld, Stephan and Schmid, Benjamin and Tinevez, Jean-Yves and White, Daniel James and Hartenstein, Volker and Eliceiri, Kevin and Tomancak, Pavel and Cardona, Albert},
+doi = {10.1038/nmeth.2019},
+issn = {1548-7105},
+journal = {Nature methods},
+keywords = {Algorithms,Animals,Brain,Brain: ultrastructure,Computational Biology,Computational Biology: methods,Drosophila melanogaster,Drosophila melanogaster: ultrastructure,Image Enhancement,Image Enhancement: methods,Image Processing, Computer-Assisted,Image Processing, Computer-Assisted: methods,Imaging, Three-Dimensional,Imaging, Three-Dimensional: methods,Information Dissemination,Software,Software Design},
+month = {jul},
+number = {7},
+pages = {676--82},
+pmid = {22743772},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+shorttitle = {Nat Meth},
+title = {{Fiji: an open-source platform for biological-image analysis.}},
+url = {http://dx.doi.org/10.1038/nmeth.2019},
+volume = {9},
+year = {2012}
+}
+@book{Soille2002,
+abstract = {2nd ed. 2002. Corr. 2nd printing, 2003, XVI, 391 p. 260 illus.},
+author = {Soille, P},
+file = {:Users/kevinmader/Library/Application Support/Mendeley Desktop/Downloaded/Soille - 2002 - Morphological image analysis principles and applications.pdf:pdf},
+title = {{Morphological image analysis: principles and applications}},
+url = {http://dl.acm.org/citation.cfm?id=773286},
+year = {2002}
+}
