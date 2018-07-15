@@ -1,4 +1,5 @@
 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=lab)
+[![JOSE Status](http://jose.theoj.org/papers/473509727717e744423e8f3358af4832/status.svg)](http://jose.theoj.org/papers/473509727717e744423e8f3358af4832)
 
 
 ## Quantitative Big Imaging Course 2018
