@@ -1,0 +1,24 @@
+language: python
+
+notifications:
+  email: false
+
+cache:
+  directories:
+   - $HOME/.cache/pip
+
+env:
+  matrix:
+    - DISTRIB="conda" PYTHON_VERSION="3.6"
+
+install: source circleci/travis_install.sh
+
+script:
+  - shopt -s globstar
+  - for nb in **/*ipynb; do
+    jupyter nbconvert --ExecutePreprocessor.timeout=3600 --execute "$nb" --to markdown |& tee nb_to_md.txt;
+    traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
+    if [[ $traceback ]]; then
+        exit 1;
+    fi;
+    done
