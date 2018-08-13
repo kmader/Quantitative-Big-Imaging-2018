@@ -29,9 +29,6 @@ conda create -n testenv --yes python=$PYTHON_VERSION pip nose pytest
 conda env update -n testenv -f binder/environment.yml -q
 source activate testenv
 
-if [[ "$COVERAGE" == "true" ]]; then
-    pip install pytest-cov coverage coveralls
-fi
 chmod a+x binder/postBuild
 sh binder/postBuild
 © 2018 GitH
