@@ -31,4 +31,3 @@ source activate testenv
 
 chmod a+x binder/postBuild
 sh binder/postBuild
-© 2018 GitH
