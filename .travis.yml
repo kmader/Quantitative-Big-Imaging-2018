@@ -19,9 +19,13 @@ install:
 script:
   - shopt -s globstar
   - for nb in **/*ipynb; do
-    jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
-    traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
-    if [[ $traceback ]]; then
-        exit 1;
+    if [[ $nb = *"Kaggle"* ]]; then
+        echo "skipping kaggle kernel $nb";
+    else     
+      jupyter nbconvert --ExecutePreprocessor.timeout=3600 --ExecutePreprocessor.kernel_name=testkernel --execute "$nb" --to markdown |& tee nb_to_md.txt;
+      traceback=$(grep "Traceback (most recent call last):" nb_to_md.txt);
+      if [[ $traceback ]]; then
+          exit 1;
+      fi;
     fi;
     done
