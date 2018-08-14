@@ -6,7 +6,7 @@ jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 # install the fancy extensions
-jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/highlighter.zip
+jupyter nbextension install --user https://rawgit.com/jfbercher/small_nbextensions/master/highlighter.zip
 jupyter nbextension enable highlighter/highlighter
 git clone https://github.com/Calysto/notebook-extensions.git
 cd notebook-extensions; jupyter nbextension install calysto --user; cd ..
@@ -22,8 +22,8 @@ jupyter nbextension enable printview/main
 # to save notebooks to run locally with figures
 jupyter nbextension enable export_embedded/main
 # add itkwidgets
-jupyter nbextension install --py --sys-prefix itkwidgets
-jupyter nbextension enable --py --sys-prefix itkwidgets
+jupyter nbextension install --py --sys-prefix --user itkwidgets
+jupyter nbextension enable --py --sys-prefix --user itkwidgets
 
 mkdir $HOME/.kaggle
 echo '{"username":"rsna2017","key":"a9462602a383a39d33576e19fcb2525f"}' > $HOME/.kaggle/kaggle.json
