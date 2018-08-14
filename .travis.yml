@@ -11,7 +11,10 @@ env:
   matrix:
     - DISTRIB="conda" PYTHON_VERSION="3.6"
 
-install: source circleci/travis_install.sh
+install: 
+   - source circleci/travis_install.sh
+   - ipython kernel install --user --name testkernel
+   - jupyter kernelspec list
 
 script:
   - shopt -s globstar
