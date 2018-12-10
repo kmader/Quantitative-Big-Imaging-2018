@@ -5,9 +5,27 @@
 
 ## Quantitative Big Imaging Course 2018
 
-Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2018 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=120956&semkez=2018S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging.
+Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2018 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=120956&semkez=2018S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging. 
 
 The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
+
+
+# Overview
+
+The lecture focuses on the challenging task of extracting robust, quantitative metrics from imaging data and is intended to bridge the gap between pure signal processing and the experimental science of imaging. The course will focus on techniques, scalability, and science-driven analysis.
+
+## Learning Objectives
+
+1. Introduction of applied image processing for research science covering basic image processing, quantitative methods, and statistics.
+2. Understanding of imaging as a means to accomplish a scientific goal. 
+3. Ability to apply quantitative methods to complex 3D data to determine the validity of a hypothesis
+
+## Target Audience
+
+Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date as the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Kevin Mader directly (mader@biomed.ee.ethz.ch).
+
+More advanced students who are familiar with Java, C++, and Python are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learningn in more detail.
+
 
 # Slack
 
