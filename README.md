@@ -246,7 +246,6 @@ For students experienced in Python there are the binder Notebooks
 
 ### 31st May - Project Presentations
 
-
 # Feedback (as much as possible)
  - Create an [issue](https://github.com/kmader/Quantitative-Big-Imaging-2016/issues) (on the group site that everyone can see and respond to, requires a Github account), [issues from last year](https://github.com/kmader/Quantitative-Big-Imaging-2015/issues)
  - Provide anonymous feedback on the course [here](https://docs.google.com/spreadsheet/embeddedform?formkey=dEtIX1ZXMzFacmdhRF9mQVpNaWtWTXc6MA)
@@ -262,6 +261,34 @@ The final examination (as originally stated in the course material) will be a 30
 - [Overview](Projects/Overview.md) of possible projects
 - [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=1920771685) you signup for your project with team members and a short title and description
 
+# Software Dependencies
+
+The course, slides and exercises are primarily done using Python 3.6 and Jupyter Notebook 5.5. The binder/repo2docker-compatible environment can be found at [binder/environment.yml](https://github.com/kmader/Quantitative-Big-Imaging-2018/blob/master/binder/environment.yml). 
+
+## All Lectures
+The packages which are required for all lectures
+- numpy
+- matplotlib
+- scipy
+- scikit-image
+- scikit-learn
+- ipyvolume
+
+## Machine Learning Packages
+For machine learning and big data lectures a few additional packages are required
+- tensorflow
+- pytorch
+- opencv
+- dask
+- dask_ndmeasure
+- dask_ndmorph
+- dask_ndfilter
+
+## Image Registration / Medical Image Data
+For the image registration lecture and medical image data 
+- itk
+- SimpleITK
+- itkwidgets
 
 # Other Material
 - Course Wiki (For Questions and Answers, discussions etc, we use the old one)
