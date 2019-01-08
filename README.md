@@ -222,7 +222,7 @@ For students experienced in Python there are the binder Notebooks
  - [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
  - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
  - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
- - [Registration Tutorial](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/Registration101.ipynb) - By Duncan Betts
+ - Registration Tutorial: [Slides](https://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/Registration101.ipynb) or [Interactive](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/Registration101.ipynb) - By Duncan Betts
 
 ### 3rd May - Statistics, Prediction, and Reproducibility
 
