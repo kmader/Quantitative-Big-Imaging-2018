@@ -7,7 +7,7 @@
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2018 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=120956&semkez=2018S&ansicht=KATALOGDATEN&lang=en): Quantitative Big Imaging. 
 
-The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M).
+The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnnHVDj_xgpUfbnlPmvW_33M). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercises in the exercises section. 
 
 
 # Overview
@@ -16,15 +16,43 @@ The lecture focuses on the challenging task of extracting robust, quantitative m
 
 ## Learning Objectives
 
-1. Introduction of applied image processing for research science covering basic image processing, quantitative methods, and statistics.
-2. Understanding of imaging as a means to accomplish a scientific goal. 
-3. Ability to apply quantitative methods to complex 3D data to determine the validity of a hypothesis
+### General
+1. Ability to compare qualitative and quantitative methods and name situations where each would be appropriate
+1. Awareness of the standard process of image processing, the steps involved and the normal order in which they take place
+1. Ability to create and evaluate quantitative metrics to compare the success of different approaches/processes/workflows
+1. Appreciation of automation and which steps it is most appropriate for
+1. The relationship between automation and reproducibility for analysis
+
+### Image Enhancement
+
+1. Awareness of the function enhancement serves and the most commonly used methods
+1. Knowledge of limitations and new problems created when using/overusing these techniques
+
+### Segmentation
+1. Awareness of different types of segmentation approaches and strengths of each
+1. Understanding of when to use automatic methods and when they might fail
+
+### Shape Analysis
+1. Knowledge of which types of metrics are easily calculated for shapes in 2D and 3D
+1. Ability to describe a physical measurement problem in terms of shape metrics
+1. Awareness of common metrics and how they are computed for arbitrary shapes
+
+### Statistics / Big Data
+1. Awareness of common statistical techniques for hypothesis testing
+1. Ability to design basic experiments to test a hypothesis
+1. Ability to analyze and critique poorly designed imaging experiments
+1. Familiarity with vocabulary, tools, and main concepts of big data
+1. Awareness of the differences between normal and big data approaches
+1. Ability to explain MapReduce and apply it to a simple problem
+
 
 ## Target Audience
 
-Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date as the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Kevin Mader directly (mader@biomed.ee.ethz.ch).
+The course is designed with both advanced undergraduate and graduate level students in mind. Ideally students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Much of the material is available as visual workflows in a tool called KNIME, although these are less up to date than the Python material. Interested students who are worried about their skill level in this regard are encouraged to contact Kevin Mader directly (mader@biomed.ee.ethz.ch).
 
-More advanced students who are familiar with Java, C++, and Python are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learningn in more detail.
+- Students with very diverse academic backgrounds have done well in the course (Informatics to Art History to Agriculture).
+- Successful students typically spent a few hours a week working on the exercises to really understand the material. 
+- More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learning in more detail.
 
 
 # Slack
@@ -138,6 +166,7 @@ Presented by Aurelien Lucchi in [Data Analytics Lab](http://www.da.inf.ethz.ch) 
 
 
 # Exercises
+
 ## General Information
 The exercises are based on the lectures and take place in the same room after the lecture completes. The exercises are designed to offer a tiered level of understanding based on the background of the student. We will (for most lectures) take advantage of an open-source tool called KNIME (www.knime.org), with example workflows here (https://www.knime.org/example-workflows).  The basic exercises will require adding blocks in a workflow and adjusting parameters, while more advanced students will be able to write their own snippets, blocks or plugins to accomplish more complex tasks easily.
 The exercises from two years ago (available [here](http://kmader.github.io/Quantitative-Big-Imaging-2015/) are done entirely in ImageJ and Matlab for students who would prefer to stay in those environments (not recommended)
