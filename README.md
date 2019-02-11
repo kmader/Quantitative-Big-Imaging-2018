@@ -269,12 +269,13 @@ For students experienced in Python there are the binder Notebooks
  - [KNIME Exercises](https://rawgithub.com/Quantitative-Big-Imaging/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
  - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
  - [Kaggle X-Ray Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
+ - Registration Tutorial: [Slides](https://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Exercises/Registration101.ipynb) or [Interactive](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Exercises/Registration101.ipynb) - By Duncan Betts
 
 ### 3rd May - Statistics, Prediction, and Reproducibility
 
  - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
  - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
+- Lung Segmentation [Rule-based Image Processing](https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras)
 
 ### 17th May - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
 
