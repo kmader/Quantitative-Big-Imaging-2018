@@ -1,5 +1,4 @@
 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?urlpath=lab)
-[![JOSE Status](http://jose.theoj.org/papers/473509727717e744423e8f3358af4832/status.svg)](http://jose.theoj.org/papers/473509727717e744423e8f3358af4832)
 [![Build Status](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2018.svg?branch=master)](https://travis-ci.org/kmader/Quantitative-Big-Imaging-2018)
 [![CircleCI](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2018.svg?style=svg)](https://circleci.com/gh/kmader/Quantitative-Big-Imaging-2018)
 
